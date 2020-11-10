@@ -1,0 +1,3 @@
+include ':lib_arcgis'
+include ':app'
+rootProject.name = "ArcgisHelperSample"
